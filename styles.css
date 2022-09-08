@@ -1,0 +1,14 @@
+body{
+    color : white;
+    background-color: red;
+}
+#residents{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+
+}
+#d{
+    background-color: aqua;
+    color: black;
+}
